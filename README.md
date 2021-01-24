@@ -16,4 +16,12 @@ If my work helped you, please consider chipping in at: https://www.patreon.com/a
 
 #### Multi-Account Containers
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>
+- Customize container colors:
+
+In `userChrome.css` -
+```
+[data-identity-color="<base_color>"] {
+  --identity-tab-color: #<hex_code> !important;
+  --identity-icon-color: #<hex_code> !important;
+}
+```

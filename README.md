@@ -24,4 +24,6 @@ In `userChrome.css` -
   --identity-tab-color: #<hex_code> !important;
   --identity-icon-color: #<hex_code> !important;
 }
+
+<base_color> can be: `red`, ...
 ```

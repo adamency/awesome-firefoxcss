@@ -27,3 +27,4 @@ In `userChrome.css` -
 
 <base_color> can be: `red`, ...
 ```
+[Source](https://github.com/mozilla/multi-account-containers/issues/391)

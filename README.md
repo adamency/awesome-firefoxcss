@@ -18,13 +18,13 @@ If my work helped you, please consider chipping in at: https://www.patreon.com/a
 
 - Customize container colors:
 
-In `userChrome.css` -
+In `userChrome.css` - [Source](https://github.com/mozilla/multi-account-containers/issues/391)
 ```
 [data-identity-color="<base_color>"] {
   --identity-tab-color: #<hex_code> !important;
   --identity-icon-color: #<hex_code> !important;
 }
+```
 
 <base_color> can be: `red`, ...
-```
-[Source](https://github.com/mozilla/multi-account-containers/issues/391)
+
